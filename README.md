@@ -14,21 +14,21 @@ It serves as an excellent resource for exploratory data analysis (EDA), customer
 
 ##5 Research Objectives Eamples
 
-5 Research Objectives Eamples
-Regional Sales Performance & Geographic Market Analysis
-Evaluate total revenue, transaction volume, and average order value across different geographic regions (Region) to identify high-performing markets and underperforming zones.
+1. Customer Demographic Segmentation & Value Analysis
+•	Objective: Evaluate total revenue, transaction frequency, and average order value across different customer demographics (such as age groups, gender, and income brackets) to identify high-value customer segments and target markets. 
 
-Impact of Discount Strategies on Net Revenue and Volume
-Investigate the relationship between Discount percentages and the resulting Quantity sold versus total net Sales to determine whether discounting successfully stimulates demand or negatively impacts revenue margins.
+2. Geographic Market Performance & Purchasing Patterns
+•	Objective: Investigate how purchasing behavior—including total sales volume, order quantities, and preferred product categories—varies across different countries of origin to pinpoint high-performing regional markets. 
 
-Product Demand and Revenue Concentration Analysis
-Identify which specific Product lines dominate total revenue generation and sales volume to pinpoint core revenue drivers versus low-performing inventory
+3. Product Demand and Revenue Concentration
+•	Objective: Identify which specific product lines and items dominate total revenue generation and sales volume to distinguish core revenue drivers from low-performing inventory. 
 
-Salesperson Productivity and Performance Benchmarking
-Assess individual sales representatives (Salesperson) based on total sales generated, transaction frequency, and average order size to establish performance benchmarks
+4. Impact of Pricing, Taxes, and Shipping Costs on Order Size
+•	Objective: Analyze the relationship between product selling prices, applicable taxes, shipping costs, and the resulting order quantities to understand how ancillary costs influence customer purchasing volume. 
 
-Temporal Sales Trends and Demand Seasonality
-Examine periodic and monthly variations in sales transactions over time (Date) to detect peak purchasing windows and seasonal demand fluctuations.
+5. Temporal Sales Trends and Demand Seasonality
+•	Objective: Examine periodic and monthly variations in order dates and shipping dates over time to detect peak purchasing windows, fulfillment lead times, and seasonal demand fluctuations.
+
 
 ## 📋 Dataset Overview
 
