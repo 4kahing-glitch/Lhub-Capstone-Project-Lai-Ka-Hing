@@ -1,5 +1,6 @@
+# Prepared by:Lai-Ka-Hing
 # Lhub-Capstone-Project-Lai-Ka-Hing
-# Electronics Retail Sales Dataset 📊
+# Retail Customer Purchase Analytics
 
 <p align="center">
  <img width="266" height="205" alt="image_1e16842e_edited" src="https://github.com/user-attachments/assets/699034ae-2410-4f06-ae9d-66dd5003594f" />
