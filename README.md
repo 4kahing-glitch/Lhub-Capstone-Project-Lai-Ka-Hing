@@ -4,7 +4,7 @@
 
 <p align="center">
  [<img width="266" height="205" alt="image_1e16842e_edited" src="https://github.com/user-attachments/assets/699034ae-2410-4f06-ae9d-66dd5003594f" />
-</p>](https://lh3.googleusercontent.com/gg-dl/AHiVA1m_T2WeDy4uEUgV8d1kmPIeFIGU0fvrplYxgBaLnrCQHRwr1wTMlCFxrqRu5k96xtkDDg7DfxUBzloEFR7-trKHNkjyWySRCnzYZZZCRbkAJ9EIYSA0o_1RtVjZC5KEw-5na7UZoOOxxFw1JbDTn80MVEmPWhsvKgh7ZgqggVUNWjiA7Q=s1024-rj)
+<img width="274" height="163" alt="image" src="https://github.com/user-attachments/assets/bc764437-cbc9-4e9b-9b8c-444a75475f25" />
 
 <h1 align="center">Electronics Retail Sales Dataset</h1>
 
