@@ -6,9 +6,9 @@
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/bc764437-cbc9-4e9b-9b8c-444a75475f25" />
 
 
-This repository contains a transactional dataset capturing retail sales performance for consumer electronics products throughout the first half of **2026**. The data includes granular details on order parameters, product categories, geographic regions, salesperson mapping, and promotional discounts.
+This repository contains a comprehensive retail customer purchase dataset capturing customer demographic profiles and multi-year product order transactions. The data integrates customer attributes—such as age, gender, country of origin, and income—with granular transactional details including product descriptions, pricing, quantities, applicable taxes, discounts, shipping costs, and fulfillment dates.
 
-It serves as an excellent resource for exploratory data analysis (EDA), sales performance forecasting, regional market analysis, and missing data imputation practice.
+It serves as an excellent resource for exploratory data analysis (EDA), customer segmentation, purchasing behavior analysis, sales performance forecasting, revenue reporting, and evaluating buying patterns across different demographic and geographic groups.
 
 <img width="274" height="163" alt="image" src="https://github.com/user-attachments/assets/bc764437-cbc9-4e9b-9b8c-444a75475f25" />
 
