@@ -1,4 +1,4 @@
-# Prepared by:Lai-Ka-Hing
+# Prepared by: Lai-Ka-Hing
 # Dataset Used: Customer Purchase
 
 
