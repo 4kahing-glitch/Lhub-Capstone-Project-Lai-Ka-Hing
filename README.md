@@ -13,6 +13,8 @@ It serves as an excellent resource for exploratory data analysis (EDA), customer
 <img width="274" height="163" alt="image" src="https://github.com/user-attachments/assets/bc764437-cbc9-4e9b-9b8c-444a75475f25" />
 
 ##5 Research Objectives Eamples
+
+5 Research Objectives Eamples
 Regional Sales Performance & Geographic Market Analysis
 Evaluate total revenue, transaction volume, and average order value across different geographic regions (Region) to identify high-performing markets and underperforming zones.
 
