@@ -15,9 +15,9 @@ It serves as an excellent resource for exploratory data analysis (EDA), customer
 
 ## 📋 Dataset Overview
 
-* **File Name:** `product_sales_practice.csv`
-* **Time Horizon:** January 2026 – June 2026
-* **Target Category:** Electronics
+* **File Name:** `customer.csv` & 'purchase.csv'
+* **Time Horizon:** Auguest 2019 – Jan 2023
+* **Target Category:** Comprehensive retail
 * **Key Entities:** Products, Sales Team, Regional Markets, Revenue Metrics
 
   Link to Jupyter Notebook in Google Colab:
