@@ -1,5 +1,5 @@
-# Prepared by: Lai-Ka-Hing
-# Dataset Used: Customer Purchase
+### Prepared by: Lai-Ka-Hing
+### Dataset Used: Customer Purchase
 
 
 <p align="center">
