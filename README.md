@@ -46,7 +46,7 @@ By combining customer demographics with transactional data, this capstone projec
 * **Key Entities:** Products, Sales Team, Regional Markets, Revenue Metrics
 
   Link to Jupyter Notebook in Google Colab:
-  https://colab.research.google.com/drive/1zdPR2ig9qFp6Q1gPrZvky3Ac7UITW3Mv?usp=sharing
+(https://colab.research.google.com/drive/1wQvki57moMjoPKh8lLDwKMk9AMkPkRC9)
    
 ## 🗂️ Data Dictionary
 
