@@ -6,9 +6,16 @@
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/bc764437-cbc9-4e9b-9b8c-444a75475f25" />
 
 
-This repository contains a comprehensive retail customer purchase dataset capturing customer demographic profiles and multi-year product order transactions. The data integrates customer attributes—such as age, gender, country of origin, and income—with granular transactional details including product descriptions, pricing, quantities, applicable taxes, discounts, shipping costs, and fulfillment dates.
+This project focuses on analyzing customer information and product purchase transactions to unlock valuable insights into buying behavior and sales performance.
 
-It serves as an excellent resource for exploratory data analysis (EDA), customer segmentation, purchasing behavior analysis, sales performance forecasting, revenue reporting, and evaluating buying patterns across different demographic and geographic groups.
+####Project Overview
+By combining customer demographics with transactional data, this capstone project empowers analysts to explore:
+
+Customer Segmentation: Grouping customers based on profile demographics and purchasing characteristics.
+
+Buying Patterns & Behavior: Understanding how different customer groups interact with products.
+
+Sales & Revenue Performance: Evaluating product performance and tracking revenue trends over time.
 
 <img width="274" height="163" alt="image" src="https://github.com/user-attachments/assets/bc764437-cbc9-4e9b-9b8c-444a75475f25" />
 
