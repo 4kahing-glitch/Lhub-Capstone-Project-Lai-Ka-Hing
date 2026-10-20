@@ -40,7 +40,7 @@ By combining customer demographics with transactional data, this capstone projec
 
 ## 📋 Dataset Overview
 
-* **File Name:** `customer.csv` & 'purchase.csv'
+* **File Name:** `customer.csv` & `purchase.csv`
 * **Time Horizon:** Auguest 2019 – Jan 2023
 * **Target Category:** Comprehensive retail
 * **Key Entities:** Products, Sales Team, Regional Markets, Revenue Metrics
