@@ -18,6 +18,10 @@ By combining customer demographics with transactional data, this capstone projec
 
 **Sales & Revenue Performance:** Evaluating product performance and tracking revenue trends over time.
 
+**Customer Value Analysis:** Assessing lifetime value, spending habits, and high-value customer segments to optimize marketing and retention strategies.
+
+**Order & Logistics Tracking:** Analyzing order fulfillment metrics, including shipping costs, delivery timelines, and product quantities ordered across different regions.
+
 <img width="274" height="163" alt="image" src="https://github.com/user-attachments/assets/bc764437-cbc9-4e9b-9b8c-444a75475f25" />
 
 ##5 Research Objectives Eamples
