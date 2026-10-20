@@ -8,14 +8,15 @@
 
 This project focuses on analyzing customer information and product purchase transactions to unlock valuable insights into buying behavior and sales performance.
 
-####Project Overview
+## Project Overview
+
 By combining customer demographics with transactional data, this capstone project empowers analysts to explore:
 
-Customer Segmentation: Grouping customers based on profile demographics and purchasing characteristics.
+**Customer Segmentation:** Grouping customers based on profile demographics and purchasing characteristics.
 
-Buying Patterns & Behavior: Understanding how different customer groups interact with products.
+**Buying Patterns & Behavior:** Understanding how different customer groups interact with products.
 
-Sales & Revenue Performance: Evaluating product performance and tracking revenue trends over time.
+**Sales & Revenue Performance:** Evaluating product performance and tracking revenue trends over time.
 
 <img width="274" height="163" alt="image" src="https://github.com/user-attachments/assets/bc764437-cbc9-4e9b-9b8c-444a75475f25" />
 
