@@ -24,22 +24,18 @@ By combining customer demographics with transactional data, this capstone projec
 
 <img width="274" height="163" alt="image" src="https://github.com/user-attachments/assets/bc764437-cbc9-4e9b-9b8c-444a75475f25" />
 
-##5 Research Objectives Eamples
+**##5 Project Objectives**
 
-1. Customer Demographic Segmentation & Value Analysis
-•	Objective: Evaluate total revenue, transaction frequency, and average order value across different customer demographics (such as age groups, gender, and income brackets) to identify high-value customer segments and target markets. 
+**1.	Evaluate Product Category Performance:** Identify which product categories and specific items generate the highest sales volume and revenue contributions across different customer demographic segments.
+  
+**2.	Analyze Pricing and Tax Strategies:** Assess the impact of selling prices, applicable taxes, and shipping costs on overall profitability, customer demand, and order quantities.
+   
+**3.	Determine Seasonal and Temporal Trends:** Examine order dates and shipping timelines to uncover seasonal purchasing peaks, sales trends, and fulfillment efficiency over time.
+   
+**4.	Optimize Inventory and Order Management:** Review order quantities and product transaction records to improve inventory turnover, reduce carrying costs, and align stock levels with customer purchasing patterns.
+   
+**5.	Formulate Profitability Improvement Strategies:** Develop data-driven recommendations to enhance overall company profitability by targeting high-value customer groups and optimizing product pricing and logistics.
 
-2. Geographic Market Performance & Purchasing Patterns
-•	Objective: Investigate how purchasing behavior—including total sales volume, order quantities, and preferred product categories—varies across different countries of origin to pinpoint high-performing regional markets. 
-
-3. Product Demand and Revenue Concentration
-•	Objective: Identify which specific product lines and items dominate total revenue generation and sales volume to distinguish core revenue drivers from low-performing inventory. 
-
-4. Impact of Pricing, Taxes, and Shipping Costs on Order Size
-•	Objective: Analyze the relationship between product selling prices, applicable taxes, shipping costs, and the resulting order quantities to understand how ancillary costs influence customer purchasing volume. 
-
-5. Temporal Sales Trends and Demand Seasonality
-•	Objective: Examine periodic and monthly variations in order dates and shipping dates over time to detect peak purchasing windows, fulfillment lead times, and seasonal demand fluctuations.
 
 
 ## 📋 Dataset Overview
