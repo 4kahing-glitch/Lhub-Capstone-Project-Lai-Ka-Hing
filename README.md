@@ -24,6 +24,9 @@ By combining customer demographics with transactional data, this capstone projec
 
 <img width="274" height="163" alt="image" src="https://github.com/user-attachments/assets/bc764437-cbc9-4e9b-9b8c-444a75475f25" />
 
+<img width="1266" height="717" alt="image" src="https://github.com/user-attachments/assets/2f957391-e2ee-4efb-a4b7-aa16d8b6836b" />
+
+
 ## **Project Objectives**
 
 **1.	Evaluate Product Category Performance:** Identify which product categories and specific items generate the highest sales volume and revenue contributions across different customer demographic segments.
